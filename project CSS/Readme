@@ -1,0 +1,17 @@
+# Spotify Web Player Clone
+
+This is a Spotify-inspired web player UI built using HTML and CSS.
+
+## Features
+- Sidebar Navigation
+- Music Cards
+- Sticky Navbar
+- Music Player
+- Playback Bar
+- Volume Control
+
+## Technologies Used
+- HTML
+- CSS
+- Font Awesome
+- Google Fonts
